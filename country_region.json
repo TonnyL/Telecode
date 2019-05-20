@@ -1,0 +1,1376 @@
+[
+  {
+    "cn": "阿富汗",
+    "en": "Afghanistan",
+    "dialing_code": "+93",
+    "code": "AF"
+  },
+  {
+    "cn": "阿尔巴尼亚",
+    "en": "Albania",
+    "dialing_code": "+355",
+    "code": "AL"
+  },
+  {
+    "cn": "阿尔及利亚",
+    "en": "Algeria",
+    "dialing_code": "+213",
+    "code": "DZ"
+  },
+  {
+    "cn": "美属萨摩亚",
+    "en": "American Samoa",
+    "dialing_code": "+1684",
+    "code": "AS"
+  },
+  {
+    "cn": "安道尔",
+    "en": "Andorra",
+    "dialing_code": "+376",
+    "code": "AD"
+  },
+  {
+    "cn": "安哥拉",
+    "en": "Angola",
+    "dialing_code": "+244",
+    "code": "AO"
+  },
+  {
+    "cn": "安圭拉",
+    "en": "Anguilla",
+    "dialing_code": "+1264",
+    "code": "AI"
+  },
+  {
+    "cn": "安提瓜和巴布达",
+    "en": "Antigua & Barbuda",
+    "dialing_code": "+1268",
+    "code": "AG"
+  },
+  {
+    "cn": "阿根廷",
+    "en": "Argentina",
+    "dialing_code": "+54",
+    "code": "AR"
+  },
+  {
+    "cn": "亚美尼亚",
+    "en": "Armenia",
+    "dialing_code": "+374",
+    "code": "AM"
+  },
+  {
+    "cn": "阿鲁巴",
+    "en": "Aruba",
+    "dialing_code": "+297",
+    "code": "AW"
+  },
+  {
+    "cn": "澳大利亚",
+    "en": "Australia",
+    "dialing_code": "+61",
+    "code": "AU"
+  },
+  {
+    "cn": "奥地利",
+    "en": "Austria",
+    "dialing_code": "+43",
+    "code": "AT"
+  },
+  {
+    "cn": "阿塞拜疆",
+    "en": "Azerbaijan",
+    "dialing_code": "+994",
+    "code": "AZ"
+  },
+  {
+    "cn": "巴林",
+    "en": "Bahrain",
+    "dialing_code": "+973",
+    "code": "BH"
+  },
+  {
+    "cn": "孟加拉国",
+    "en": "Bangladesh",
+    "dialing_code": "+880",
+    "code": "BD"
+  },
+  {
+    "cn": "巴巴多斯",
+    "en": "Barbados",
+    "dialing_code": "+1246",
+    "code": "BB"
+  },
+  {
+    "cn": "白俄罗斯",
+    "en": "Belarus",
+    "dialing_code": "+375",
+    "code": "BY"
+  },
+  {
+    "cn": "比利时",
+    "en": "Belgium",
+    "dialing_code": "+32",
+    "code": "BE"
+  },
+  {
+    "cn": "伯利兹",
+    "en": "Belize",
+    "dialing_code": "+501",
+    "code": "BZ"
+  },
+  {
+    "cn": "贝宁",
+    "en": "Benin",
+    "dialing_code": "+229",
+    "code": "BJ"
+  },
+  {
+    "cn": "百慕大",
+    "en": "Bermuda",
+    "dialing_code": "+1441",
+    "code": "BM"
+  },
+  {
+    "cn": "不丹",
+    "en": "Bhutan",
+    "dialing_code": "+975",
+    "code": "BT"
+  },
+  {
+    "cn": "玻利维亚",
+    "en": "Bolivia",
+    "dialing_code": "+591",
+    "code": "BO"
+  },
+  {
+    "cn": "波黑",
+    "en": "Bosnia & Herzegovina",
+    "dialing_code": "+387",
+    "code": "BA"
+  },
+  {
+    "cn": "博茨瓦纳",
+    "en": "Botswana",
+    "dialing_code": "+267",
+    "code": "BW"
+  },
+  {
+    "cn": "巴西",
+    "en": "Brazil",
+    "dialing_code": "+55",
+    "code": "BR"
+  },
+  {
+    "cn": "英属维尔京群岛",
+    "en": "British Virgin Islands",
+    "dialing_code": "+1284",
+    "code": "VG"
+  },
+  {
+    "cn": "文莱",
+    "en": "Brunei Darussalam",
+    "dialing_code": "+673",
+    "code": "BN"
+  },
+  {
+    "cn": "保加利亚",
+    "en": "Bulgaria",
+    "dialing_code": "+359",
+    "code": "BG"
+  },
+  {
+    "cn": "布基纳法索",
+    "en": "Burkina Faso",
+    "dialing_code": "+226",
+    "code": "BF"
+  },
+  {
+    "cn": "缅甸",
+    "en": "Myanmar",
+    "dialing_code": "+95",
+    "code": "MM"
+  },
+  {
+    "cn": "布隆迪",
+    "en": "Burundi",
+    "dialing_code": "+257",
+    "code": "BI"
+  },
+  {
+    "cn": "柬埔寨",
+    "en": "Cambodia",
+    "dialing_code": "+855",
+    "code": "KH"
+  },
+  {
+    "cn": "喀麦隆",
+    "en": "Cameroon",
+    "dialing_code": "+237",
+    "code": "CM"
+  },
+  {
+    "cn": "加拿大",
+    "en": "Canada",
+    "dialing_code": "+1",
+    "code": "CA"
+  },
+  {
+    "cn": "佛得角",
+    "en": "Cape Verde",
+    "dialing_code": "+238",
+    "code": "CV"
+  },
+  {
+    "cn": "开曼群岛",
+    "en": "Cayman Islands",
+    "dialing_code": "+1345",
+    "code": "KY"
+  },
+  {
+    "cn": "中非",
+    "en": "Central African Republic",
+    "dialing_code": "+236",
+    "code": "CF"
+  },
+  {
+    "cn": "乍得",
+    "en": "Chad",
+    "dialing_code": "+235",
+    "code": "TD"
+  },
+  {
+    "cn": "智利",
+    "en": "Chile",
+    "dialing_code": "+56",
+    "code": "CL"
+  },
+  {
+    "cn": "中国",
+    "en": "China",
+    "dialing_code": "+86",
+    "code": "CN"
+  },
+  {
+    "cn": "圣诞岛",
+    "en": "Christmas Island",
+    "dialing_code": "+61",
+    "code": "CX"
+  },
+  {
+    "cn": "科科斯（基林）群岛",
+    "en": "Cocos (Keeling) Islands",
+    "dialing_code": "+61",
+    "code": "CC"
+  },
+  {
+    "cn": "哥伦比亚",
+    "en": "Colombia",
+    "dialing_code": "+57",
+    "code": "CO"
+  },
+  {
+    "cn": "科摩罗",
+    "en": "Comoros",
+    "dialing_code": "+269",
+    "code": "KM"
+  },
+  {
+    "cn": "刚果（金）",
+    "en": "Democratic Republic of the Congo",
+    "dialing_code": "+243",
+    "code": "CD"
+  },
+  {
+    "cn": "刚果（布）",
+    "en": "Republic of the Congo",
+    "dialing_code": "+242",
+    "code": "CG"
+  },
+  {
+    "cn": "库克群岛",
+    "en": "Cook Islands",
+    "dialing_code": "+682",
+    "code": "CK"
+  },
+  {
+    "cn": "哥斯达黎加",
+    "en": "Costa Rica",
+    "dialing_code": "+506",
+    "code": "CR"
+  },
+  {
+    "cn": "科特迪瓦",
+    "en": "Côte d`Ivoire",
+    "dialing_code": "+225",
+    "code": "CI"
+  },
+  {
+    "cn": "克罗地亚",
+    "en": "Croatia",
+    "dialing_code": "+385",
+    "code": "HR"
+  },
+  {
+    "cn": "古巴",
+    "en": "Cuba",
+    "dialing_code": "+53",
+    "code": "CU"
+  },
+  {
+    "cn": "塞浦路斯",
+    "en": "Cyprus",
+    "dialing_code": "+357",
+    "code": "CY"
+  },
+  {
+    "cn": "捷克",
+    "en": "Czech Republic",
+    "dialing_code": "+420",
+    "code": "CZ"
+  },
+  {
+    "cn": "丹麦",
+    "en": "Denmark",
+    "dialing_code": "+45",
+    "code": "DK"
+  },
+  {
+    "cn": "吉布提",
+    "en": "Djibouti",
+    "dialing_code": "+253",
+    "code": "DJ"
+  },
+  {
+    "cn": "多米尼克",
+    "en": "Dominica",
+    "dialing_code": "+1767",
+    "code": "DM"
+  },
+  {
+    "cn": "多米尼加",
+    "en": "Dominican Republic",
+    "dialing_code": "+1809",
+    "code": "DO"
+  },
+  {
+    "cn": "厄瓜多尔",
+    "en": "Ecuador",
+    "dialing_code": "+593",
+    "code": "EC"
+  },
+  {
+    "cn": "埃及",
+    "en": "Egypt",
+    "dialing_code": "+20",
+    "code": "EG"
+  },
+  {
+    "cn": "萨尔瓦多",
+    "en": "El Salvador",
+    "dialing_code": "+503",
+    "code": "SV"
+  },
+  {
+    "cn": "赤道几内亚",
+    "en": "Equatorial Guinea",
+    "dialing_code": "+240",
+    "code": "GQ"
+  },
+  {
+    "cn": "厄立特里亚",
+    "en": "Eritrea",
+    "dialing_code": "+291",
+    "code": "ER"
+  },
+  {
+    "cn": "爱沙尼亚",
+    "en": "Estonia",
+    "dialing_code": "+372",
+    "code": "EE"
+  },
+  {
+    "cn": "埃塞俄比亚",
+    "en": "Ethiopia",
+    "dialing_code": "+251",
+    "code": "ET"
+  },
+  {
+    "cn": "福克兰群岛（马尔维纳斯）",
+    "en": "Falkland Islands (Islas Malvinas)",
+    "dialing_code": "+500",
+    "code": "FK"
+  },
+  {
+    "cn": "法罗群岛",
+    "en": "Faroe Islands",
+    "dialing_code": "+298",
+    "code": "FO"
+  },
+  {
+    "cn": "斐济",
+    "en": "Fiji",
+    "dialing_code": "+679",
+    "code": "FJ"
+  },
+  {
+    "cn": "芬兰",
+    "en": "Finland",
+    "dialing_code": "+358",
+    "code": "FI"
+  },
+  {
+    "cn": "法国",
+    "en": "France",
+    "dialing_code": "+33",
+    "code": "FR"
+  },
+  {
+    "cn": "法属圭亚那",
+    "en": "French Guiana",
+    "dialing_code": "+594",
+    "code": "GF"
+  },
+  {
+    "cn": "法属波利尼西亚",
+    "en": "French Polynesia",
+    "dialing_code": "+689",
+    "code": "PF"
+  },
+  {
+    "cn": "加蓬",
+    "en": "Gabon",
+    "dialing_code": "+241",
+    "code": "GA"
+  },
+  {
+    "cn": "格鲁吉亚",
+    "en": "Georgia",
+    "dialing_code": "+995",
+    "code": "GE"
+  },
+  {
+    "cn": "德国",
+    "en": "Germany",
+    "dialing_code": "+49",
+    "code": "DE"
+  },
+  {
+    "cn": "加纳",
+    "en": "Ghana",
+    "dialing_code": "+233",
+    "code": "GH"
+  },
+  {
+    "cn": "直布罗陀",
+    "en": "Gibraltar",
+    "dialing_code": "+350",
+    "code": "GI"
+  },
+  {
+    "cn": "希腊",
+    "en": "Greece",
+    "dialing_code": "+30",
+    "code": "GR"
+  },
+  {
+    "cn": "格陵兰",
+    "en": "Greenland",
+    "dialing_code": "+299",
+    "code": "GL"
+  },
+  {
+    "cn": "格林纳达",
+    "en": "Grenada",
+    "dialing_code": "+1473",
+    "code": "GD"
+  },
+  {
+    "cn": "瓜德罗普",
+    "en": "Guadeloupe",
+    "dialing_code": "+590",
+    "code": "GP"
+  },
+  {
+    "cn": "关岛",
+    "en": "Guam",
+    "dialing_code": "+1671",
+    "code": "GU"
+  },
+  {
+    "cn": "危地马拉",
+    "en": "Guatemala",
+    "dialing_code": "+502",
+    "code": "GT"
+  },
+  {
+    "cn": "根西",
+    "en": "Guernsey",
+    "dialing_code": "+1481",
+    "code": "GG"
+  },
+  {
+    "cn": "几内亚",
+    "en": "Guinea",
+    "dialing_code": "+224",
+    "code": "GN"
+  },
+  {
+    "cn": "几内亚比绍",
+    "en": "Guinea-Bissau",
+    "dialing_code": "+245",
+    "code": "GW"
+  },
+  {
+    "cn": "圭亚那",
+    "en": "Guyana",
+    "dialing_code": "+592",
+    "code": "GY"
+  },
+  {
+    "cn": "海地",
+    "en": "Haiti",
+    "dialing_code": "+509",
+    "code": "HT"
+  },
+  {
+    "cn": "梵蒂冈",
+    "en": "Holy See (Vatican City)",
+    "dialing_code": "+379",
+    "code": "VA"
+  },
+  {
+    "cn": "洪都拉斯",
+    "en": "Honduras",
+    "dialing_code": "+504",
+    "code": "HN"
+  },
+  {
+    "cn": "香港",
+    "en": "Hong Kong (SAR)",
+    "dialing_code": "+852",
+    "code": "HK"
+  },
+  {
+    "cn": "匈牙利",
+    "en": "Hungary",
+    "dialing_code": "+36",
+    "code": "HU"
+  },
+  {
+    "cn": "冰岛",
+    "en": "Iceland",
+    "dialing_code": "+354",
+    "code": "IS"
+  },
+  {
+    "cn": "印度",
+    "en": "India",
+    "dialing_code": "+91",
+    "code": "IN"
+  },
+  {
+    "cn": "印度尼西亚",
+    "en": "Indonesia",
+    "dialing_code": "+62",
+    "code": "ID"
+  },
+  {
+    "cn": "伊朗",
+    "en": "Iran",
+    "dialing_code": "+98",
+    "code": "IR"
+  },
+  {
+    "cn": "伊拉克",
+    "en": "Iraq",
+    "dialing_code": "+964",
+    "code": "IQ"
+  },
+  {
+    "cn": "爱尔兰",
+    "en": "Ireland",
+    "dialing_code": "+353",
+    "code": "IE"
+  },
+  {
+    "cn": "以色列",
+    "en": "Israel",
+    "dialing_code": "+972",
+    "code": "IL"
+  },
+  {
+    "cn": "意大利",
+    "en": "Italy",
+    "dialing_code": "+39",
+    "code": "IT"
+  },
+  {
+    "cn": "牙买加",
+    "en": "Jamaica",
+    "dialing_code": "+1876",
+    "code": "JM"
+  },
+  {
+    "cn": "日本",
+    "en": "Japan",
+    "dialing_code": "+81",
+    "code": "JP"
+  },
+  {
+    "cn": "约旦",
+    "en": "Jordan",
+    "dialing_code": "+962",
+    "code": "JO"
+  },
+  {
+    "cn": "哈萨克斯坦",
+    "en": "Kazakhstan",
+    "dialing_code": "+73",
+    "code": "KZ"
+  },
+  {
+    "cn": "肯尼亚",
+    "en": "Kenya",
+    "dialing_code": "+254",
+    "code": "KE"
+  },
+  {
+    "cn": "基里巴斯",
+    "en": "Kiribati",
+    "dialing_code": "+686",
+    "code": "KI"
+  },
+  {
+    "cn": "朝鲜",
+    "en": "North Korea",
+    "dialing_code": "+850",
+    "code": "KP"
+  },
+  {
+    "cn": "韩国",
+    "en": "South Korea",
+    "dialing_code": "+82",
+    "code": "KR"
+  },
+  {
+    "cn": "科威特",
+    "en": "Kuwait",
+    "dialing_code": "+965",
+    "code": "KW"
+  },
+  {
+    "cn": "吉尔吉斯斯坦",
+    "en": "Kyrgyzstan",
+    "dialing_code": "+996",
+    "code": "KG"
+  },
+  {
+    "cn": "老挝",
+    "en": "Laos",
+    "dialing_code": "+856",
+    "code": "LA"
+  },
+  {
+    "cn": "拉脱维亚",
+    "en": "Latvia",
+    "dialing_code": "+371",
+    "code": "LV"
+  },
+  {
+    "cn": "黎巴嫩",
+    "en": "Lebanon",
+    "dialing_code": "+961",
+    "code": "LB"
+  },
+  {
+    "cn": "莱索托",
+    "en": "Lesotho",
+    "dialing_code": "+266",
+    "code": "LS"
+  },
+  {
+    "cn": "利比里亚",
+    "en": "Liberia",
+    "dialing_code": "+231",
+    "code": "LR"
+  },
+  {
+    "cn": "利比亚",
+    "en": "Libya",
+    "dialing_code": "+218",
+    "code": "LY"
+  },
+  {
+    "cn": "列支敦士登",
+    "en": "Liechtenstein",
+    "dialing_code": "+423",
+    "code": "LI"
+  },
+  {
+    "cn": "立陶宛",
+    "en": "Lithuania",
+    "dialing_code": "+370",
+    "code": "LT"
+  },
+  {
+    "cn": "卢森堡",
+    "en": "Luxembourg",
+    "dialing_code": "+352",
+    "code": "LU"
+  },
+  {
+    "cn": "澳门",
+    "en": "Macau",
+    "dialing_code": "+853",
+    "code": "MO"
+  },
+  {
+    "cn": "马其顿",
+    "en": "Macedonia",
+    "dialing_code": "+389",
+    "code": "MK"
+  },
+  {
+    "cn": "马达加斯加",
+    "en": "Madagascar",
+    "dialing_code": "+261",
+    "code": "MG"
+  },
+  {
+    "cn": "马拉维",
+    "en": "Malawi",
+    "dialing_code": "+265",
+    "code": "MW"
+  },
+  {
+    "cn": "马来西亚",
+    "en": "Malaysia",
+    "dialing_code": "+60",
+    "code": "MY"
+  },
+  {
+    "cn": "马尔代夫",
+    "en": "Maldives",
+    "dialing_code": "+960",
+    "code": "MV"
+  },
+  {
+    "cn": "马里",
+    "en": "Mali",
+    "dialing_code": "+223",
+    "code": "ML"
+  },
+  {
+    "cn": "马耳他",
+    "en": "Malta",
+    "dialing_code": "+356",
+    "code": "MT"
+  },
+  {
+    "cn": "马绍尔群岛",
+    "en": "Marshall Islands",
+    "dialing_code": "+692",
+    "code": "MH"
+  },
+  {
+    "cn": "马提尼克",
+    "en": "Martinique",
+    "dialing_code": "+596",
+    "code": "MQ"
+  },
+  {
+    "cn": "毛里塔尼亚",
+    "en": "Mauritania",
+    "dialing_code": "+222",
+    "code": "MR"
+  },
+  {
+    "cn": "毛里求斯",
+    "en": "Mauritius",
+    "dialing_code": "+230",
+    "code": "MU"
+  },
+  {
+    "cn": "马约特",
+    "en": "Mayotte",
+    "dialing_code": "+262",
+    "code": "YT"
+  },
+  {
+    "cn": "墨西哥",
+    "en": "Mexico",
+    "dialing_code": "+52",
+    "code": "MX"
+  },
+  {
+    "cn": "密克罗尼西亚",
+    "en": "Micronesia",
+    "dialing_code": "+691",
+    "code": "FM"
+  },
+  {
+    "cn": "摩尔多瓦",
+    "en": "Moldova",
+    "dialing_code": "+373",
+    "code": "MD"
+  },
+  {
+    "cn": "摩纳哥",
+    "en": "Monaco",
+    "dialing_code": "+377",
+    "code": "MC"
+  },
+  {
+    "cn": "蒙古",
+    "en": "Mongolia",
+    "dialing_code": "+976",
+    "code": "MN"
+  },
+  {
+    "cn": "黑山",
+    "en": "Montenegro",
+    "dialing_code": "+382",
+    "code": "ME"
+  },
+  {
+    "cn": "蒙特塞拉特",
+    "en": "Montserrat",
+    "dialing_code": "+1664",
+    "code": "MS"
+  },
+  {
+    "cn": "摩洛哥",
+    "en": "Morocco",
+    "dialing_code": "+212",
+    "code": "MA"
+  },
+  {
+    "cn": "莫桑比克",
+    "en": "Mozambique",
+    "dialing_code": "+258",
+    "code": "MZ"
+  },
+  {
+    "cn": "纳米尼亚",
+    "en": "Namibia",
+    "dialing_code": "+264",
+    "code": "NA"
+  },
+  {
+    "cn": "瑙鲁",
+    "en": "Nauru",
+    "dialing_code": "+674",
+    "code": "NR"
+  },
+  {
+    "cn": "尼泊尔",
+    "en": "Nepal",
+    "dialing_code": "+977",
+    "code": "NP"
+  },
+  {
+    "cn": "荷兰",
+    "en": "Netherlands",
+    "dialing_code": "+31",
+    "code": "NL"
+  },
+  {
+    "cn": "荷属安的列斯",
+    "en": "Netherlands Antilles",
+    "dialing_code": "+599",
+    "code": "AN"
+  },
+  {
+    "cn": "新喀里多尼亚",
+    "en": "New Caledonia",
+    "dialing_code": "+687",
+    "code": "NC"
+  },
+  {
+    "cn": "新西兰",
+    "en": "New Zealand",
+    "dialing_code": "+64",
+    "code": "NZ"
+  },
+  {
+    "cn": "尼加拉瓜",
+    "en": "Nicaragua",
+    "dialing_code": "+505",
+    "code": "NI"
+  },
+  {
+    "cn": "尼日尔",
+    "en": "Niger",
+    "dialing_code": "+227",
+    "code": "NE"
+  },
+  {
+    "cn": "尼日利亚",
+    "en": "Nigeria",
+    "dialing_code": "+234",
+    "code": "NG"
+  },
+  {
+    "cn": "纽埃",
+    "en": "Niue",
+    "dialing_code": "+683",
+    "code": "NU"
+  },
+  {
+    "cn": "诺福克岛",
+    "en": "Norfolk Island",
+    "dialing_code": "+672",
+    "code": "NF"
+  },
+  {
+    "cn": "北马里亚纳",
+    "en": "Northern Mariana Islands",
+    "dialing_code": "+1670",
+    "code": "MP"
+  },
+  {
+    "cn": "挪威",
+    "en": "Norway",
+    "dialing_code": "+47",
+    "code": "NO"
+  },
+  {
+    "cn": "阿曼",
+    "en": "Oman",
+    "dialing_code": "+968",
+    "code": "OM"
+  },
+  {
+    "cn": "巴基斯坦",
+    "en": "Pakistan",
+    "dialing_code": "+92",
+    "code": "PK"
+  },
+  {
+    "cn": "帕劳",
+    "en": "Palau",
+    "dialing_code": "+680",
+    "code": "PW"
+  },
+  {
+    "cn": "巴拿马",
+    "en": "Panama",
+    "dialing_code": "+507",
+    "code": "PA"
+  },
+  {
+    "cn": "巴布亚新几内亚",
+    "en": "Papua New Guinea",
+    "dialing_code": "+675",
+    "code": "PG"
+  },
+  {
+    "cn": "巴拉圭",
+    "en": "Paraguay",
+    "dialing_code": "+595",
+    "code": "PY"
+  },
+  {
+    "cn": "秘鲁",
+    "en": "Peru",
+    "dialing_code": "+51",
+    "code": "PE"
+  },
+  {
+    "cn": "菲律宾",
+    "en": "Philippines",
+    "dialing_code": "+63",
+    "code": "PH"
+  },
+  {
+    "cn": "波兰",
+    "en": "Poland",
+    "dialing_code": "+48",
+    "code": "PL"
+  },
+  {
+    "cn": "葡萄牙",
+    "en": "Portugal",
+    "dialing_code": "+351",
+    "code": "PT"
+  },
+  {
+    "cn": "波多黎各",
+    "en": "Puerto Rico",
+    "dialing_code": "+1787",
+    "code": "PR"
+  },
+  {
+    "cn": "卡塔尔",
+    "en": "Qatar",
+    "dialing_code": "+974",
+    "code": "QA"
+  },
+  {
+    "cn": "留尼汪",
+    "en": "Réunion",
+    "dialing_code": "+262",
+    "code": "RE"
+  },
+  {
+    "cn": "罗马尼亚",
+    "en": "Romania",
+    "dialing_code": "+40",
+    "code": "RO"
+  },
+  {
+    "cn": "俄罗斯",
+    "en": "Russia",
+    "dialing_code": "+7",
+    "code": "RU"
+  },
+  {
+    "cn": "卢旺达",
+    "en": "Rwanda",
+    "dialing_code": "+250",
+    "code": "RW"
+  },
+  {
+    "cn": "圣赫勒拿",
+    "en": "Saint Helena",
+    "dialing_code": "+290",
+    "code": "SH"
+  },
+  {
+    "cn": "圣基茨和尼维斯",
+    "en": "Saint Kitts & Nevis",
+    "dialing_code": "+1869",
+    "code": "KN"
+  },
+  {
+    "cn": "圣卢西亚",
+    "en": "Saint Lucia",
+    "dialing_code": "+1758",
+    "code": "LC"
+  },
+  {
+    "cn": "圣皮埃尔和密克隆",
+    "en": "Saint Pierre & Miquelon",
+    "dialing_code": "+508",
+    "code": "PM"
+  },
+  {
+    "cn": "圣文森特和格林纳丁斯",
+    "en": "Saint Vincent & the Grenadines",
+    "dialing_code": "+1784",
+    "code": "VC"
+  },
+  {
+    "cn": "萨摩亚",
+    "en": "Samoa",
+    "dialing_code": "+685",
+    "code": "WS"
+  },
+  {
+    "cn": "圣马力诺",
+    "en": "San Marino",
+    "dialing_code": "+378",
+    "code": "SM"
+  },
+  {
+    "cn": "圣多美和普林西比",
+    "en": "São Tomé & Príncipe",
+    "dialing_code": "+239",
+    "code": "ST"
+  },
+  {
+    "cn": "沙特阿拉伯",
+    "en": "Saudi Arabia",
+    "dialing_code": "+966",
+    "code": "SA"
+  },
+  {
+    "cn": "塞内加尔",
+    "en": "Senegal",
+    "dialing_code": "+221",
+    "code": "SN"
+  },
+  {
+    "cn": "塞尔维亚",
+    "en": "Serbia",
+    "dialing_code": "+381",
+    "code": "RS"
+  },
+  {
+    "cn": "塞舌尔",
+    "en": "Seychelles",
+    "dialing_code": "+248",
+    "code": "SC"
+  },
+  {
+    "cn": "塞拉利",
+    "en": "Sierra Leone",
+    "dialing_code": "+232",
+    "code": "SL"
+  },
+  {
+    "cn": "新加坡",
+    "en": "Singapore",
+    "dialing_code": "+65",
+    "code": "SG"
+  },
+  {
+    "cn": "斯洛伐克",
+    "en": "Slovakia",
+    "dialing_code": "+421",
+    "code": "SK"
+  },
+  {
+    "cn": "斯洛文尼亚",
+    "en": "Slovenia",
+    "dialing_code": "+386",
+    "code": "SI"
+  },
+  {
+    "cn": "所罗门群岛",
+    "en": "Solomon Islands",
+    "dialing_code": "+677",
+    "code": "SB"
+  },
+  {
+    "cn": "索马里",
+    "en": "Somalia",
+    "dialing_code": "+252",
+    "code": "SO"
+  },
+  {
+    "cn": "南非",
+    "en": "South Africa",
+    "dialing_code": "+27",
+    "code": "ZA"
+  },
+  {
+    "cn": "西班牙",
+    "en": "Spain",
+    "dialing_code": "+34",
+    "code": "ES"
+  },
+  {
+    "cn": "斯里兰卡",
+    "en": "Sri Lanka",
+    "dialing_code": "+94",
+    "code": "LK"
+  },
+  {
+    "cn": "苏丹",
+    "en": "Sudan",
+    "dialing_code": "+249",
+    "code": "SD"
+  },
+  {
+    "cn": "苏里南",
+    "en": "Suriname",
+    "dialing_code": "+597",
+    "code": "SR"
+  },
+  {
+    "cn": "斯威士兰",
+    "en": "Swaziland",
+    "dialing_code": "+268",
+    "code": "SZ"
+  },
+  {
+    "cn": "瑞典",
+    "en": "Sweden",
+    "dialing_code": "+46",
+    "code": "SE"
+  },
+  {
+    "cn": "瑞士",
+    "en": "Switzerland",
+    "dialing_code": "+41",
+    "code": "CH"
+  },
+  {
+    "cn": "叙利亚",
+    "en": "Syria",
+    "dialing_code": "+963",
+    "code": "SY"
+  },
+  {
+    "cn": "台湾",
+    "en": "Taiwan",
+    "dialing_code": "+886",
+    "code": "TW"
+  },
+  {
+    "cn": "塔吉克斯坦",
+    "en": "Tajikistan",
+    "dialing_code": "+992",
+    "code": "TJ"
+  },
+  {
+    "cn": "坦桑尼亚",
+    "en": "Tanzania",
+    "dialing_code": "+255",
+    "code": "TZ"
+  },
+  {
+    "cn": "泰国",
+    "en": "Thailand",
+    "dialing_code": "+66",
+    "code": "TH"
+  },
+  {
+    "cn": "巴哈马",
+    "en": "Bahamas",
+    "dialing_code": "+1242",
+    "code": "BS"
+  },
+  {
+    "cn": "冈比亚",
+    "en": "Gambia",
+    "dialing_code": "+220",
+    "code": "GM"
+  },
+  {
+    "cn": "多哥",
+    "en": "Togo",
+    "dialing_code": "+228",
+    "code": "TG"
+  },
+  {
+    "cn": "托克劳",
+    "en": "Tokelau",
+    "dialing_code": "+690",
+    "code": "TK"
+  },
+  {
+    "cn": "汤加",
+    "en": "Tonga",
+    "dialing_code": "+676",
+    "code": "TO"
+  },
+  {
+    "cn": "特立尼达和多巴哥",
+    "en": "Trinidad & Tobago",
+    "dialing_code": "+1868",
+    "code": "TT"
+  },
+  {
+    "cn": "突尼斯",
+    "en": "Tunisia",
+    "dialing_code": "+216",
+    "code": "TN"
+  },
+  {
+    "cn": "土耳其",
+    "en": "Turkey",
+    "dialing_code": "+90",
+    "code": "TR"
+  },
+  {
+    "cn": "土库曼斯坦",
+    "en": "Turkmenistan",
+    "dialing_code": "+993",
+    "code": "TM"
+  },
+  {
+    "cn": "特克斯和凯科斯群岛",
+    "en": "Turks & Caicos Islands",
+    "dialing_code": "+1649",
+    "code": "TC"
+  },
+  {
+    "cn": "图瓦卢",
+    "en": "Tuvalu",
+    "dialing_code": "+688",
+    "code": "TV"
+  },
+  {
+    "cn": "乌干达",
+    "en": "Uganda",
+    "dialing_code": "+256",
+    "code": "UG"
+  },
+  {
+    "cn": "乌克兰",
+    "en": "Ukraine",
+    "dialing_code": "+380",
+    "code": "UA"
+  },
+  {
+    "cn": "阿拉伯联合酋长国",
+    "en": "United Arab Emirates",
+    "dialing_code": "+971",
+    "code": "AE"
+  },
+  {
+    "cn": "英国",
+    "en": "United Kingdom",
+    "dialing_code": "+44",
+    "code": "GB"
+  },
+  {
+    "cn": "美国",
+    "en": "United States",
+    "dialing_code": "+1",
+    "code": "US"
+  },
+  {
+    "cn": "乌拉圭",
+    "en": "Uruguay",
+    "dialing_code": "+598",
+    "code": "UY"
+  },
+  {
+    "cn": "乌兹别克斯坦",
+    "en": "Uzbekistan",
+    "dialing_code": "+998",
+    "code": "UZ"
+  },
+  {
+    "cn": "瓦努阿图",
+    "en": "Vanuatu",
+    "dialing_code": "+678",
+    "code": "VU"
+  },
+  {
+    "cn": "委内瑞拉",
+    "en": "Venezuela",
+    "dialing_code": "+58",
+    "code": "VE"
+  },
+  {
+    "cn": "越南",
+    "en": "Vietnam",
+    "dialing_code": "+84",
+    "code": "VN"
+  },
+  {
+    "cn": "美属维尔京群岛",
+    "en": "US Virgin Islands",
+    "dialing_code": "+1340",
+    "code": "VI"
+  },
+  {
+    "cn": "瓦利斯和富图纳",
+    "en": "Wallis & Futuna",
+    "dialing_code": "+681",
+    "code": "WF"
+  },
+  {
+    "cn": "也门",
+    "en": "Yemen",
+    "dialing_code": "+967",
+    "code": "YE"
+  },
+  {
+    "cn": "赞比亚",
+    "en": "Zambia",
+    "dialing_code": "+260",
+    "code": "ZM"
+  },
+  {
+    "cn": "津巴布韦",
+    "en": "Zimbabwe",
+    "dialing_code": "+263",
+    "code": "ZW"
+  }
+]
