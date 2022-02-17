@@ -1,5 +1,29 @@
 [
   {
+    "cn": "中国",
+    "en": "China",
+    "dialing_code": "+86",
+    "code": "CN"
+  },
+  {
+      "cn": "中国香港",
+      "en": "Hong Kong (SAR)",
+      "dialing_code": "+852",
+      "code": "HK"
+  },
+  {
+      "cn": "中国澳门",
+      "en": "Macau (SAR)",
+      "dialing_code": "+853",
+      "code": "MO"
+  },
+  {
+      "cn": "中国台湾",
+      "en": "Taiwan, China",
+      "dialing_code": "+886",
+      "code": "TW"
+  },
+  {
     "cn": "阿富汗",
     "en": "Afghanistan",
     "dialing_code": "+93",
@@ -66,6 +90,12 @@
     "code": "AW"
   },
   {
+    "cn": "阿森松岛",
+    "en": "Ascension Island",
+    "dialing_code": "+247",
+    "code": "AC",
+  },
+  {
     "cn": "澳大利亚",
     "en": "Australia",
     "dialing_code": "+61",
@@ -126,7 +156,7 @@
     "code": "BJ"
   },
   {
-    "cn": "百慕大",
+    "cn": "百慕大群岛",
     "en": "Bermuda",
     "dialing_code": "+1441",
     "code": "BM"
@@ -144,10 +174,10 @@
     "code": "BO"
   },
   {
-    "cn": "波黑",
-    "en": "Bosnia & Herzegovina",
+    "cn": "波斯尼亚和黑塞哥维那",
+    "en": "Bosnia and Herzegovina",
     "dialing_code": "+387",
-    "code": "BA"
+    "code": "BA",
   },
   {
     "cn": "博茨瓦纳",
@@ -166,6 +196,12 @@
     "en": "British Virgin Islands",
     "dialing_code": "+1284",
     "code": "VG"
+  },
+  {
+    "cn": "美属维尔京群岛",
+    "en": "United States Virgin Islands",
+    "dialing_code": "+1284",
+    "code": "VI"
   },
   {
     "cn": "文莱",
@@ -216,10 +252,16 @@
     "code": "CA"
   },
   {
-    "cn": "佛得角",
+    "cn": "开普",
     "en": "Cape Verde",
     "dialing_code": "+238",
     "code": "CV"
+  },
+  {
+    "cn": "荷兰加勒比区",
+    "en": "Caribisch Nederland",
+    "dialing_code": "+599",
+    "code": "BQ"
   },
   {
     "cn": "开曼群岛",
@@ -246,22 +288,10 @@
     "code": "CL"
   },
   {
-    "cn": "中国",
-    "en": "China",
-    "dialing_code": "+86",
-    "code": "CN"
-  },
-  {
     "cn": "圣诞岛",
     "en": "Christmas Island",
     "dialing_code": "+61",
     "code": "CX"
-  },
-  {
-    "cn": "科科斯（基林）群岛",
-    "en": "Cocos (Keeling) Islands",
-    "dialing_code": "+61",
-    "code": "CC"
   },
   {
     "cn": "哥伦比亚",
@@ -276,13 +306,31 @@
     "code": "KM"
   },
   {
-    "cn": "刚果（金）",
+    "cn": "库拉索",
+    "en": "Curacao",
+    "dialing_code": "+599",
+    "code": "CW"
+  },
+  {
+    "cn": "马拉维",
+    "en": "Republic of Malawi",
+    "dialing_code": "+265",
+    "code": "MW"
+  },
+  {
+    "cn": "南苏丹",
+    "en": "Republic of South Sudan",
+    "dialing_code": "+211",
+    "code": "SS"
+  },
+  {
+    "cn": "刚果民主共和国",
     "en": "Democratic Republic of the Congo",
     "dialing_code": "+243",
     "code": "CD"
   },
   {
-    "cn": "刚果（布）",
+    "cn": "刚果共和国",
     "en": "Republic of the Congo",
     "dialing_code": "+242",
     "code": "CG"
@@ -342,13 +390,13 @@
     "code": "DJ"
   },
   {
-    "cn": "多米尼克",
+    "cn": "多米尼加",
     "en": "Dominica",
     "dialing_code": "+1767",
     "code": "DM"
   },
   {
-    "cn": "多米尼加",
+    "cn": "多米尼加共和国",
     "en": "Dominican Republic",
     "dialing_code": "+1809",
     "code": "DO"
@@ -486,7 +534,7 @@
     "code": "GD"
   },
   {
-    "cn": "瓜德罗普",
+    "cn": "瓜德罗普岛",
     "en": "Guadeloupe",
     "dialing_code": "+590",
     "code": "GP"
@@ -504,19 +552,13 @@
     "code": "GT"
   },
   {
-    "cn": "根西",
-    "en": "Guernsey",
-    "dialing_code": "+1481",
-    "code": "GG"
-  },
-  {
     "cn": "几内亚",
     "en": "Guinea",
     "dialing_code": "+224",
     "code": "GN"
   },
   {
-    "cn": "几内亚比绍",
+    "cn": "几内亚比绍共和国",
     "en": "Guinea-Bissau",
     "dialing_code": "+245",
     "code": "GW"
@@ -544,12 +586,6 @@
     "en": "Honduras",
     "dialing_code": "+504",
     "code": "HN"
-  },
-  {
-    "cn": "香港",
-    "en": "Hong Kong (SAR)",
-    "dialing_code": "+852",
-    "code": "HK"
   },
   {
     "cn": "匈牙利",
@@ -626,7 +662,7 @@
   {
     "cn": "哈萨克斯坦",
     "en": "Kazakhstan",
-    "dialing_code": "+73",
+    "dialing_code": "+7",
     "code": "KZ"
   },
   {
@@ -720,12 +756,6 @@
     "code": "LU"
   },
   {
-    "cn": "澳门",
-    "en": "Macau",
-    "dialing_code": "+853",
-    "code": "MO"
-  },
-  {
     "cn": "马其顿",
     "en": "Macedonia",
     "dialing_code": "+389",
@@ -736,12 +766,6 @@
     "en": "Madagascar",
     "dialing_code": "+261",
     "code": "MG"
-  },
-  {
-    "cn": "马拉维",
-    "en": "Malawi",
-    "dialing_code": "+265",
-    "code": "MW"
   },
   {
     "cn": "马来西亚",
@@ -876,12 +900,6 @@
     "code": "NL"
   },
   {
-    "cn": "荷属安的列斯",
-    "en": "Netherlands Antilles",
-    "dialing_code": "+599",
-    "code": "AN"
-  },
-  {
     "cn": "新喀里多尼亚",
     "en": "New Caledonia",
     "dialing_code": "+687",
@@ -940,6 +958,12 @@
     "en": "Oman",
     "dialing_code": "+968",
     "code": "OM"
+  },
+  {
+    "cn": "巴勒斯坦领土",
+    "en": "Palestinian territories",
+    "dialing_code": "+970",
+    "code": "PS"
   },
   {
     "cn": "巴基斯坦",
@@ -1009,7 +1033,7 @@
   },
   {
     "cn": "留尼汪",
-    "en": "Réunion",
+    "en": "Réunion Island",
     "dialing_code": "+262",
     "code": "RE"
   },
@@ -1032,12 +1056,6 @@
     "code": "RW"
   },
   {
-    "cn": "圣赫勒拿",
-    "en": "Saint Helena",
-    "dialing_code": "+290",
-    "code": "SH"
-  },
-  {
     "cn": "圣基茨和尼维斯",
     "en": "Saint Kitts & Nevis",
     "dialing_code": "+1869",
@@ -1050,16 +1068,16 @@
     "code": "LC"
   },
   {
-    "cn": "圣皮埃尔和密克隆",
-    "en": "Saint Pierre & Miquelon",
-    "dialing_code": "+508",
-    "code": "PM"
-  },
-  {
     "cn": "圣文森特和格林纳丁斯",
     "en": "Saint Vincent & the Grenadines",
     "dialing_code": "+1784",
     "code": "VC"
+  },
+  {
+    "cn": "圣彼埃尔和密克隆岛",
+    "en": "Saint Pierre and Miquelon",
+    "dialing_code": "+508",
+    "code": "PM"
   },
   {
     "cn": "萨摩亚",
@@ -1075,7 +1093,7 @@
   },
   {
     "cn": "圣多美和普林西比",
-    "en": "São Tomé & Príncipe",
+    "en": "Sao Tome and Principe",
     "dialing_code": "+239",
     "code": "ST"
   },
@@ -1104,7 +1122,7 @@
     "code": "SC"
   },
   {
-    "cn": "塞拉利",
+    "cn": "塞拉利昂",
     "en": "Sierra Leone",
     "dialing_code": "+232",
     "code": "SL"
@@ -1114,6 +1132,12 @@
     "en": "Singapore",
     "dialing_code": "+65",
     "code": "SG"
+  },
+  {
+    "cn": "圣马丁岛（荷兰部分）",
+    "en": "Sint Maarten (Dutch Part)",
+    "dialing_code": "+1721",
+    "code": "SX"
   },
   {
     "cn": "斯洛伐克",
@@ -1194,12 +1218,6 @@
     "code": "SY"
   },
   {
-    "cn": "台湾",
-    "en": "Taiwan",
-    "dialing_code": "+886",
-    "code": "TW"
-  },
-  {
     "cn": "塔吉克斯坦",
     "en": "Tajikistan",
     "dialing_code": "+992",
@@ -1228,6 +1246,12 @@
     "en": "Gambia",
     "dialing_code": "+220",
     "code": "GM"
+  },
+  {
+    "cn": "东帝汶",
+    "en": "Timor-Leste",
+    "dialing_code": "+670",
+    "code": "TL"
   },
   {
     "cn": "多哥",
@@ -1346,8 +1370,14 @@
   {
     "cn": "美属维尔京群岛",
     "en": "US Virgin Islands",
-    "dialing_code": "+1340",
+    "dialing_code": "+1284",
     "code": "VI"
+  },
+  {
+    "cn": "英属维尔京群岛",
+    "en": "British Virgin Islands",
+    "dialing_code": "+1340",
+    "code": "VG"
   },
   {
     "cn": "瓦利斯和富图纳",
